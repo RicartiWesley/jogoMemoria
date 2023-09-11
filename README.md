@@ -1,2 +1,2 @@
 # jogoMemoria
-Esse reositório tem um jogo muito louco de memória 
+Esse repositório tem um jogo muito louco de memória 
